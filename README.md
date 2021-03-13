@@ -3,7 +3,8 @@ Simple Plotly Example for mapping multiple data for Y- Axis with common X- axis 
 
 Requirements
 
-*1.Plotly can be obtain by " pip install plotly". *
-*2.Pandas  can be obtain by " pip install pandas".*
+1. Plotly can be obtain by " pip install plotly". 
+
+2. Pandas  can be obtain by " pip install pandas".
 
 Data source URL:https://archive.ics.uci.edu/ml/datasets/Hungarian+Chickenpox+Cases
